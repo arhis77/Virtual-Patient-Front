@@ -1,0 +1,24 @@
+
+.v-dialog {
+    .popup--title {
+        font-family: 'Arial Nova';
+        font-weight: normal;
+        font-size: 24px;
+        color: #67687C;
+    }
+    .v-list-item__action {
+        margin-right: 11px;
+    }
+    .v-list-item__content {
+        font-size: 24px;
+        color: #67687C;
+    }
+    .accept_btn {
+        background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #F2F4FB;
+        border: 1px solid #AAB5DA;
+        box-sizing: border-box;
+        border-radius: 3px;
+        text-transform: capitalize;
+        font-size: 18px;
+    }
+}
